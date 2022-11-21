@@ -1,3 +1,2 @@
-# UnityShitGame
-mirror ile çokluoyunculu basit oyun
-optimizasyon yok
+# Tanklar Çok Oyunculu
+okulda sınıf arkadaşlarıma oynatıcak basit bir oyun
